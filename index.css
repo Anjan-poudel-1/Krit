@@ -576,7 +576,7 @@ z-index: 20000;
 .choose-data-wrap{
     display: flex;
     justify-content: center;
-    align-items: center;
+    /* align-items: center; */
     
    
 }
